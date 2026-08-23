@@ -39,8 +39,8 @@ document.getElementById('proWhatsAppForm').addEventListener('submit', function(e
     const eventDate = document.getElementById('eventDate').value;
     const eventLocation = document.getElementById('eventLocation').value.trim();
 
-    // Studio Owner WhatsApp Phone Number (International format without '+', e.g., 919876543210)
-    const ownerWhatsAppNumber = "919876543210";
+    // Studio Owner WhatsApp Phone Number (International format without '+', e.g., 919756478590)
+    const ownerWhatsAppNumber = "919756478590";
 
     // Formatting highly professional enterprise WhatsApp inquiry message
     const message = `*✨ New Elite Booking Inquiry - Nainwal Art's Photography ✨*%0A%0A` +
